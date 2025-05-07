@@ -32,6 +32,5 @@ public class LogIn {
         System.out.println("¡Acceso concedido!");
 
         scanner.close();
-
     }
 }
